@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<setlist>
+	<artist> The Rolling Stones </artist>
+	<songs>
+		<song type = "rock">
+			<title> Jumpin' Jack Flash </title>
+			<realeseDate> 1972 </realeseDate>
+		</song>
+		<song type = "rock">
+			<title> It's Only Rock And Roll </title>
+			<realeseDate> 1972 </realeseDate>
+		</song>
+		<song type = "rock">
+			<title> Tumbling Dice </title>
+			<realeseDate> 1970 </realeseDate>
+		</song>
+		<song type = "rock">
+			<title> Out Of Control </title>
+			<realeseDate> 1997 </realeseDate>
+		</song>
+		<song type = "rock">
+			<title> Under My Thumb </title>
+			<realeseDate> 1966 </realeseDate>
+		</song>
+		<song type = "rock">
+			<title> You Can't Always Get What You Want </title>
+			<realeseDate> 1968 </realeseDate>
+		</song>
+		<song type = "rock">
+			<title> Sweet Virginia </title>
+			<realeseDate> 1972 </realeseDate>
+		</song>
+		<song type = "rock">
+			<title> Dead Flowers </title>
+			<realeseDate> 1970 </realeseDate>
+		</song>
+		<song type = "rock">
+			<title> Sympathy For The Devil </title>
+			<realeseDate> 1968 </realeseDate>
+		</song>
+		<song type = "rock">
+			<title> Honky Tonk Women </title>
+			<realeseDate> 1969 </realeseDate>
+		</song>
+</setlist>
